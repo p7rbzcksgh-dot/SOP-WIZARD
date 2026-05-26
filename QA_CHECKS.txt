@@ -1,0 +1,6 @@
+Clean 09 checks:
+- No hamburger/flyout menu on dashboard.
+- Dashboard fits in one screen on portrait and landscape mobile.
+- Create SOP has one Add Another Step button at the bottom of the step list.
+- Add Part Line button is at the bottom of each step parts section.
+- Export section is at the bottom of the SOP builder.
